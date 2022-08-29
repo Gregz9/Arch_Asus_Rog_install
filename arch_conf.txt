@@ -1,0 +1,12 @@
+Links to fix arch linux installation on Asus Rog Strix G15 G513QR: 
+
+	I. https://github.com/asus-zephyrus/archinstall
+	
+	II. https://asus-linux.org/
+
+	III. https://github.com/Unim8trix/G14Arch
+
+	IV. 
+
+	
+	
