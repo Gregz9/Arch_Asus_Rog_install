@@ -35,7 +35,7 @@ The defualt console map of the live environment is set to US. In order to change
 ### Networking
 Start by using command `iwctl` to enter wireless control menu to configure **iwd** daemon. After entering the menu, use the following commands to connect to wifi: 
 ```
-# device scan 
+# device list 
 # station DEVICE scan 
 # station DEVICE get-networks
 # station DEVICE connect SSID
